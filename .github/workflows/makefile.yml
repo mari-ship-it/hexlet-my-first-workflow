@@ -1,14 +1,8 @@
-name: Makefile CI
-
-on:
-  - push
-
+name: makefile
+on: push
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
-    - uses: actions/checkout@v4
-
-    - run: make say-hello
+      - uses: actions/checkout@v4
+      - run: ls -la
