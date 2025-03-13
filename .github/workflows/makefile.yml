@@ -1,6 +1,7 @@
 name: Makefile CI
 
-on: push
+on:
+  - push
 
 jobs:
   build:
