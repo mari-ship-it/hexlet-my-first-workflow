@@ -1,1 +1,2 @@
 # hexlet-my-first-workflow
+[![makefile](https://github.com/mari-ship-it/hexlet-my-first-workflow/actions/workflows/makefile.yml/badge.svg)](https://github.com/mari-ship-it/hexlet-my-first-workflow/actions/workflows/makefile.yml)
