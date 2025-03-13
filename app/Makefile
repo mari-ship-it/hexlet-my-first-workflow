@@ -1,6 +1,6 @@
 .DEFAULT_GOAL := build-run
 
 say-hello:
-	@./build/install/app/bin/app
+	@echo 'Hello, World!'
 
 .PHONY: build
